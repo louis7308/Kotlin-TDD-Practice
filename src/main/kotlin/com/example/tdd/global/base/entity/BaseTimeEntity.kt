@@ -1,4 +1,4 @@
 package com.example.tdd.global.base.entity
 
-interface BaseTimeEntity {
+abstract class BaseTimeEntity {
 }
